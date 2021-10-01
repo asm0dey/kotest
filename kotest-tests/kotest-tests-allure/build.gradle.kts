@@ -2,7 +2,7 @@ plugins {
    id("java")
    id("kotlin-multiplatform")
    id("java-library")
-   id("io.qameta.allure") version "2.8.1"
+   id("io.qameta.allure") version "2.9.4"
 }
 
 repositories {
